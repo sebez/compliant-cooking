@@ -51,7 +51,9 @@ Sont **autorisés** :
   * Polenta poireaux champignons
   * Riz aubergines
   * Pâtes de sarrazin et brocolis
+  * Pâtes de sarrazin et artichauts
   * Lentilles purée de carotte
+  * Socca courgette oignon
 
 ## Exemples de goûter
 
