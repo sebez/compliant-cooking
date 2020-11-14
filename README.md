@@ -18,6 +18,7 @@ Sont **autorisés** :
   * des fruits de mer : St Jacques, Crevettes, Moules, Crabe
   * toutes les viandes
   * les oeufs
+  * des **oléagineux** : amande, pistache, pignon de pin, graine de courge, graine de tournesol, noix de cajou, olive, tournesol, colza, sésame
 
 ## Les éléments d'un repas
 
@@ -29,16 +30,30 @@ Sont **autorisés** :
 ## Les repas
 
   * **Déjeuner**
-    * Crudités
-    * Légumes + protéines animales (+ féculent)
+    * Entrée : crudités
+    * Plat : légumes + protéines animales (+ féculent)
   * **Dîner**
-    * Crudités
-    * Légumes + féculents
+    * Entrée : Crudités
+    * Plat : légumes + féculents
   * **Petit déjeuner / goûter**
     * Gâteau
 
-## Exemples de déjeuner
+## Exemples de plats de déjeuner
 
-## Exemples de dîner
+  * Poulet rôti et haricots verts
+  * Purée de carottes au crevettes
+  * Purée de fenouil aux Saint-Jacques
+  * Riz carotte ognion champignon crevettes
+  * Polenta et choux de Bruxelles
+
+## Exemples de plats de dîner
+
+  * Polenta poireaux champignons
+  * Riz aubergines
+  * Pâtes de sarrazin et brocolis
+  * Lentilles purée de carotte
 
 ## Exemples de goûter
+
+  * Clafoutis aux cerises (sans rien sans tout)
+  * Gâteau amande citron (sans rien sans tout)
