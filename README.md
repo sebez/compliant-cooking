@@ -41,19 +41,28 @@ Sont **autorisés** :
 ## Exemples de plats de déjeuner
 
   * Poulet rôti et haricots verts
+  * Poulet basquaise
+  * Poulet curry coco
   * Purée de carottes au crevettes
-  * Purée de fenouil aux Saint-Jacques
-  * Riz carotte ognion champignon crevettes  
+  * Purée de fenouil aux Saint-Jacques / au poisson
+  * Riz carotte ognion champignon crevettes
+  * Fondue de poireau et poisson
+  * Pot-au-feu
 
 ## Exemples de plats de dîner
 
   * Polenta poireaux champignons
   * Polenta et choux de Bruxelles
+  * Polenta et patate douce
+  * Polenta et épinard
   * Riz aubergines
+  * Riz ratatouille
   * Pâtes de sarrazin et brocolis
   * Pâtes de sarrazin et artichauts
-  * Lentilles purée de carotte
+  * Lentilles carottes oignons
   * Socca courgette oignon
+  * Socca blettes
+  * Pomme de terre carotte oignon
 
 ## Exemples de goûter
 
