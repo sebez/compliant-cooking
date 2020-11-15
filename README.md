@@ -43,11 +43,17 @@ Sont **autorisés** :
   * Poulet rôti et haricots verts
   * Poulet basquaise
   * Poulet curry coco
+  * Poule au pot
   * Purée de carottes au crevettes
   * Purée de fenouil aux Saint-Jacques / au poisson
   * Riz carotte ognion champignon crevettes
   * Fondue de poireau et poisson
   * Pot-au-feu
+  * Boeuf bourguignon
+  * Blanquette de veau (sans lait)
+  * Aïoli
+  * Tian et poisson
+  * Paëlla
 
 ## Exemples de plats de dîner
 
