@@ -43,12 +43,12 @@ Sont **autorisés** :
   * Poulet rôti et haricots verts
   * Purée de carottes au crevettes
   * Purée de fenouil aux Saint-Jacques
-  * Riz carotte ognion champignon crevettes
-  * Polenta et choux de Bruxelles
+  * Riz carotte ognion champignon crevettes  
 
 ## Exemples de plats de dîner
 
   * Polenta poireaux champignons
+  * Polenta et choux de Bruxelles
   * Riz aubergines
   * Pâtes de sarrazin et brocolis
   * Pâtes de sarrazin et artichauts
