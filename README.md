@@ -31,10 +31,10 @@ Sont **autorisés** :
 
   * **Déjeuner**
     * Entrée : crudités
-    * Plat : légumes + protéines animales (+ féculent)
+    * Plat : 2 parts de légumes + pour 1 part de protéines animales (+ féculent)
   * **Dîner**
     * Entrée : Crudités
-    * Plat : légumes + féculents
+    * Plat : 2 parts de légumes + pour 1 part de féculents
   * **Petit déjeuner / goûter**
     * Gâteau
 
