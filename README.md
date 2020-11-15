@@ -51,18 +51,23 @@ Sont **autorisés** :
 
 ## Exemples de plats de dîner
 
+(peut être transormé en déjeuner en rajoutant des protéines)
+
   * Polenta poireaux champignons
   * Polenta et choux de Bruxelles
   * Polenta et patate douce
   * Polenta et épinard
+  * Polenta et butternut oignon
   * Riz aubergines
   * Riz ratatouille
+  * Riz courgette oignon
   * Pâtes de sarrazin et brocolis
   * Pâtes de sarrazin et artichauts
   * Lentilles carottes oignons
   * Socca courgette oignon
   * Socca blettes
   * Pomme de terre carotte oignon
+  * Chataignes et choux de Bruxelles
 
 ## Exemples de goûter
 
