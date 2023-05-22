@@ -77,5 +77,11 @@ Sont **autorisés** :
 
 ## Exemples de goûter
 
+Dans le commerce : 
+
+  * macarons (modulo la ganache)
+
+Maison
+
   * Clafoutis aux cerises (sans rien sans tout)
   * Gâteau amande citron (sans rien sans tout)
