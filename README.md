@@ -79,9 +79,11 @@ Sont **autorisés** :
 
 Dans le commerce : 
 
-  * macarons (modulo la ganache)
+  * macarons
+  * mochis
+  * sorbets
 
-Maison
+Maison : 
 
   * Clafoutis aux cerises (sans rien sans tout)
   * Gâteau amande citron (sans rien sans tout)
